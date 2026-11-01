@@ -1,0 +1,3 @@
+Source: https://github.com/cluesurf/wavebase (base/ folder)
+Licence: public domain, as stated in the repository readme ("100% public domain, free sound samples").
+Converted from WAV to OGG Vorbis (q6).
